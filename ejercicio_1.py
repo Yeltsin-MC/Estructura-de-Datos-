@@ -1,6 +1,6 @@
-esto es solo una prueba profe
+
 import random
-#Prueba de compartir repositorio
+
 def desordena(lista,largo_list,contador):
     if contador< largo_list:
         numero_random= random.randint(contador, largo_list-1)
